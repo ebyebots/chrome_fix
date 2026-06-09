@@ -1,3 +1,5 @@
+<img width="952" height="562" alt="image" src="https://github.com/user-attachments/assets/ba88ea0a-1d62-42c3-bc3b-5c9cf722a2c3" />
+
 # chrome_fix
 Быстрый способ исправить доступ к легитимным сайтам, заблокированным ТСПУ РКН, через изменение TLS-отпечатка в браузерах на базе Chromium. Без VPN и прокси
 
